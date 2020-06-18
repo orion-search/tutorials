@@ -1,0 +1,9 @@
+numpy==1.18.2
+torch==1.4.0
+transformers==2.11.0
+umap-learn==0.4.3
+scikit-learn==0.22.1
+faiss-cpu==1.6.1
+sentencepiece==0.1.85
+sentence-transformers==0.2.6.1
+pandas==1.0.3
