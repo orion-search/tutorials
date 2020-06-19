@@ -11,7 +11,7 @@ Tutorials, talks, demos and blogs on Orion and its components.
 
 ## Abstracts & papers ##
 - Orion: An interactive information retrieval system for scientific knowledge discovery (SciNLP, 2020) [[abstract](https://drive.google.com/file/d/15PZhH5wVZxg_MIfnIz7N-o5U7LehbfO3/view), [video](https://youtu.be/m0s5sjlpfAY)]
-- A large-scale analysis of the misinformation research landscape [[abstract](https://drive.google.com/file/d/1q4nHOxDXQ4UYZlf_ImCkPcxKnbAX0n8s/view?usp=sharing), [video]()]
+- A large-scale analysis of the misinformation research landscape [[abstract](https://drive.google.com/file/d/1q4nHOxDXQ4UYZlf_ImCkPcxKnbAX0n8s/view?usp=sharing), [video](https://youtu.be/AqpSrKDctos)]
 
 ## Tutorials ##
-- Advanced text representation methods (IC2S2, 2020) [[notebook](notebooks/001-ic2s2-tutorial-text-embeddings), [video]()]
+- Advanced text representation methods (IC2S2, 2020) [[notebook](notebooks/001-ic2s2-tutorial-text-embeddings), [video](https://youtu.be/w7OdtEZjHXc)]

@@ -20,9 +20,9 @@ def vector_search(query, model, index, num_results=10):
     return D, I
 
 
-def id2abstract(df, I):
+def id2details(df, I, column):
     """Returns the paper titles based on the paper index."""
-    return [list(df[df.id == idx]["original_title"]) for idx in I[0]]
+    return [list(df[df.id == idx][column]) for idx in I[0]]
 
 
 def plot(data):

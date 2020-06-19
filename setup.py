@@ -26,6 +26,6 @@ common_kwargs = dict(
 
 setup(
     name="tutorials",
-    packages=find_namespace_packages(where="src.*"),
+    packages=find_namespace_packages(where="tutorials.*"),
     **common_kwargs
 )
