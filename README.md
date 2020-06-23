@@ -14,4 +14,4 @@ Tutorials, talks, demos and blogs on Orion and its components.
 - A large-scale analysis of the misinformation research landscape [[abstract](https://drive.google.com/file/d/1q4nHOxDXQ4UYZlf_ImCkPcxKnbAX0n8s/view?usp=sharing), [video](https://youtu.be/AqpSrKDctos)]
 
 ## Tutorials ##
-- Advanced text representation methods (IC2S2, 2020) [[notebook](/notebooks/001-ic2s2-tutorial-text-embeddings), [video](https://youtu.be/w7OdtEZjHXc)]
+- Advanced text representation methods (IC2S2, 2020) [[notebook](/notebooks/001-ic2s2-tutorial-text-embeddings.ipynb), [video](https://youtu.be/w7OdtEZjHXc)]
