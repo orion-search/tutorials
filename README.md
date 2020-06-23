@@ -3,7 +3,7 @@
 Tutorials, talks, demos and blogs on Orion and its components.
 
 ## Demos ##
-- Orion's front-end (IC2S2, 2020) [[video](ADD_LINK)]
+- Orion's front-end (IC2S2, 2020) [[video](https://youtu.be/7xII8cFWJRc)]
 
 ## Blogs ##
 - Orion: An open-source tool for the science of science [[blog](https://medium.com/@kstathou/orion-an-open-source-tool-for-the-science-of-science-4259935f91d4)]
@@ -14,4 +14,4 @@ Tutorials, talks, demos and blogs on Orion and its components.
 - A large-scale analysis of the misinformation research landscape [[abstract](https://drive.google.com/file/d/1q4nHOxDXQ4UYZlf_ImCkPcxKnbAX0n8s/view?usp=sharing), [video](https://youtu.be/AqpSrKDctos)]
 
 ## Tutorials ##
-- Advanced text representation methods (IC2S2, 2020) [[notebook](notebooks/001-ic2s2-tutorial-text-embeddings), [video](https://youtu.be/w7OdtEZjHXc)]
+- Advanced text representation methods (IC2S2, 2020) [[notebook](/notebooks/001-ic2s2-tutorial-text-embeddings), [video](https://youtu.be/w7OdtEZjHXc)]
