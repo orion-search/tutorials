@@ -15,3 +15,4 @@ Tutorials, talks, demos and blogs on Orion and its components.
 
 ## Tutorials ##
 - Advanced text representation methods (IC2S2, 2020) [[notebook](/notebooks/001-ic2s2-tutorial-text-embeddings.ipynb), [video](https://youtu.be/w7OdtEZjHXc)]
+- Overview of Orion and hands-on tutorial of Airflow (IC2S2, 2020) [[presentation](https://drive.google.com/file/d/13ww3lo1N5HfiVDYbV9GTnVXCqtJmHHNz/view?usp=sharing)]
