@@ -1,4 +1,4 @@
-numpy==1.18.2
+numpy==1.22.0
 torch==1.4.0
 transformers==2.11.0
 umap-learn==0.4.3
