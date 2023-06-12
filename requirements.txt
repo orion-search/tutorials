@@ -1,6 +1,6 @@
 numpy==1.18.2
 torch==1.4.0
-transformers==2.11.0
+transformers==4.30.0
 umap-learn==0.4.3
 scikit-learn==0.22.1
 faiss-cpu==1.6.1
